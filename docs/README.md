@@ -8,7 +8,7 @@ Communication follows a regular cadence, with defined escalation paths for manag
 
 This management methodology enables OctoAcme to deliver business value with transparency, accountability, and consistent results. The documentation below provides detailed guidance on each phase and practice, serving as the authoritative reference for all project teams.
 
-## Process Documentation
+## Process Documents
 
 - [Project Management Overview](octoacme-project-management-overview.md)
 - [Project Initiation](octoacme-project-initiation.md)
